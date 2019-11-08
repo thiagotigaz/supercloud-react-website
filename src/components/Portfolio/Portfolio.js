@@ -10,7 +10,7 @@ const Portfolio = (props) => {
             <h1 className={'text-center mb-3'}>Portfolio</h1>
             <CardColumns>
                 {
-                    portfolios.map((portfolio, index) => <PortfolioItem {...portfolio} key={portfolio.title}/>)
+                    portfolios.map((portfolio, index) => <PortfolioItem {...portfolio} key={index}/>)
                 }
             </CardColumns>
         </Container>
