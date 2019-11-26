@@ -25,7 +25,7 @@ const Head = (props) => {
                 <p className="lead clearfix">AWS Solutions Architect, specialized in
                     Java/Python/Node, Cloud Computing, microservices and serverless.</p>
                 <hr className="my-2"/>
-                <p>Java Software Architect, works with Java Web Applications, AWS and Android, have knowledge in technologies such as AWS, Java, AngularJS, JSF, Primefaces, Hibernate, Bootstrap, Jquery, REST (Spring / Jax-RS), Spring MVC (Thymeleaf), Spring Boot, Maven, Gradle and Android, also have experience with Git, SVN and SCRUM.</p>
+                <p>Cloud Solutions Architect with experience in requirements gathering, design and development of Cloud based applications to support business development initiatives. Works with Java, Spring Boot, Spring Cloud, Docker, NodeJs, Python and AWS. Specialized in Amazon Web Services(AWS), cloud migrations, containerization strategies, breaking down of monoliths into microservices and DevOps automation.</p>
                 <p className="lead">
                     <Button color="primary"
                             href="https://www.linkedin.com/in/thiagotigaz"
