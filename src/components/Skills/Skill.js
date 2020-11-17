@@ -6,12 +6,12 @@ const Skill = ({icon, name, value}) => {
 
   return (
       <Row>
-        <Col md={2}>
+        <Col md={2} className={'d-sm-none d-xs-none d-md-none d-xs-block d-sm-block d-md-block'}>
           <div className="p-2 bd-highlight"><FontAwesomeIcon
               icon={icon} size="2x" className={'float-left'}/>
           </div>
         </Col>
-        <Col md={10}>
+        <Col md={10} sm={12}>
           <h6>{name}</h6>
           <Progress value={value}/>
         </Col>
