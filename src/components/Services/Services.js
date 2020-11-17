@@ -11,17 +11,17 @@ const Services = (props) => {
           <Col md={4} className={"text-center"} >
             <FontAwesomeIcon icon={faHandshake} size="4x" />
             <h3>AWS Consulting</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tincidunt mi a felis ullamcorper vestibulum. Donec faucibus purus non augue ullamcorper dapibus. Mauris ac ligula at nisl eleifend iaculis.</p>
+            <p>We provide custom classes to build up AWS/cloud knowledge within your team, helping them think out of the box and understand how to architect highly scalable, resilient and cost effiecient cloud based applications using the latest technologies.</p>
           </Col>
           <Col md={4} className={"text-center"} >
             <FontAwesomeIcon icon={faCloud} size="4x" />
             <h3>Cloud Migration</h3>
-            <p>Maecenas cursus odio in metus elementum, vitae pulvinar ipsum pharetra. Morbi mollis quam vitae mi convallis commodo.</p>
+            <p>Do you have an on premises system that is taking your nerves and costing too much? I can solve this problem. I'm expert in building custom tailored migration plan to move your application from premises to AWS. To achieve that we analyze your project and build a custom plans with all the steps necessary for hosting your app on AWS.</p>
           </Col>
           <Col md={4} className={"text-center"}>
             <FontAwesomeIcon icon={faCogs} size="4x" />
             <h3>Microservices Design</h3>
-            <p>Curabitur quis ex quis ex suscipit hendrerit. Quisque sodales lacus non ante tristique iaculis. Etiam urna quam, faucibus nec leo ut, rhoncus malesuada ex.</p>
+            <p>Accelerate your time to market with our ready to use microservices architecture. We provide you production ready Java or NodeJs microservices infrastructure for your team to start building on top of it, just leave those stressful hours of project setup for me to solve it.</p>
           </Col>
         </Row>
       </Container>
